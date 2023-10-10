@@ -1,5 +1,5 @@
-## Pham Quang Minh
-- DoB: 2001/03/12
-- Email: minhpq@pascaliaasia.com
-- Hobbies: Music, Games
+## Your Name
+- DoB: Your Date of Birth
+- Email: Your Email
+- Hobbies: Your hobbies
 
